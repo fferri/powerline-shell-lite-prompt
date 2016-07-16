@@ -1,7 +1,7 @@
-Powershell Lite Prompt for Bash
-===============================
+Powerline Shell Lite Prompt for Bash
+====================================
 
-A very minimalistic and fast powershell prompt for Bash.
+A very minimalistic and fast powerline shell prompt for Bash.
 
 Usage is very simple: just use the `print_sections` function to create
 a prompt with as many sections as you like.
